@@ -23,8 +23,8 @@ j’ai participé à différents développements, que ce soit au niveau front-en
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neodraken&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Johanrc's GitHub stats](https://github-readme-stats.vercel.app/api?username=neodraken&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Johanrc's GitHub stats](https://github-readme-stats.vercel.app/api?username=neodraken&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **neodraken/neodraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
