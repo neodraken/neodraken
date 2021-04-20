@@ -1,6 +1,6 @@
 ### Hello !
 
-https://img.shields.io/twitter/follow/johanrc_pro?style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/johanrc_pro?style=social)
 
 <!--
 **neodraken/neodraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
