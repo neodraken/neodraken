@@ -6,8 +6,7 @@ Je suis développeur PHP depuis 11 ans. J'ai travaillé principalement pour un �
 j’ai participé à différents développements, que ce soit au niveau front-end ou back-end de l’application Bluekiwi (en utilisant les technologies telles que le PHP, Mysql, HTML, CSS, Javascript, Jquery, Elasticsearch, …).
 
 ---
-
-![Twitter Follow](https://img.shields.io/twitter/follow/johanrc_pro?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/johanrc_pro?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=johanrc_pro)
 
 <!--
 **neodraken/neodraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
