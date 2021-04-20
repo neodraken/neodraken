@@ -1,5 +1,12 @@
 ### Hello !
 
+---
+Je suis développeur PHP depuis 11 ans. J'ai travaillé principalement pour un éditeur de logiciel, spécialisé dans les réseaux sociaux d’entreprise en SAAS. 
+
+j’ai participé à différents développements, que ce soit au niveau front-end ou back-end de l’application Bluekiwi (en utilisant les technologies telles que le PHP, Mysql, HTML, CSS, Javascript, Jquery, Elasticsearch, …).
+
+---
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/johanrc_pro?style=social)
 
 <!--
