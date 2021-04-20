@@ -14,17 +14,8 @@ j’ai participé à différents développements, que ce soit au niveau front-en
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" alt="Symfony" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="50" height="50"/>
-<img src="https://img1.freepng.fr/20180824/tzl/kisspng-logo-elasticsearch-kibana-logstash-database-5b804d3f411d62.3432187415351350392667.jpg" alt="elasticsearch" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-original-wordmark.svg" alt="composer" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" alt="Symfony" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="50" height="50"/><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt987f36e6cf17bc9a/5ea8c7fba7bdee51f48010f7/brand-elastic-vertical-220x130.svg" alt="elasticsearch" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-original-wordmark.svg" alt="composer" width="50" height="50"/>
 
 
 
